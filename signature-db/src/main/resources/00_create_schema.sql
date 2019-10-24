@@ -1,0 +1,2 @@
+CREATE USER sig WITH password 'sig';
+CREATE SCHEMA sig AUTHORIZATION sig;
